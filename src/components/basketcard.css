@@ -1,0 +1,50 @@
+.Basket_Card{
+
+    background-color: white;
+    padding: 20px;
+    width: 800px;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+
+    margin: 10px 5px;    
+}
+
+.Product_image{
+    border-radius: 10px;
+    height: 210px;
+    width: 180px;
+}
+
+/* .Product_image_div{
+
+} */
+
+.btn_div{
+    margin-top: 50px;
+    display:grid;
+}
+
+.Button{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    
+    width: 150px;
+    margin-left: 15px;
+    
+    color: black;
+    border-radius: 5px;
+    background-color:#f0c14b;
+    border-color: #f0c14b;
+    padding: 4px;
+}
+
+.Aboutitem{
+    text-align: left;
+}
+
+#Card_title{
+    text-align: left;
+    height: fit-content;
+    font-weight: bold;
+}

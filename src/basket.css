@@ -1,0 +1,29 @@
+.basket{
+
+    background-color: whitesmoke;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+
+}
+
+.Checkout_column{
+    background-color: white;
+    height:fit-content;
+    padding: 20px 40px;
+    width:30%;
+}
+
+#check_box{
+    width:fit-content
+}
+
+.checkoutbtn{
+    background-color:#f0c14b;
+    border-color: #f0c14b;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 10px;
+    border-width:0;
+    cursor:pointer;
+}

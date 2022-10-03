@@ -1,0 +1,8 @@
+.Home_container{
+    background-color: whitesmoke;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

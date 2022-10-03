@@ -1,0 +1,8 @@
+1.How to get bullet points for ABOUT ITEM:  seciton of singleproduct.js file 
+2.basket page
+3.buy now page
+4.Update the basket value every time we press Add to basket button
+5.If same product is put to basket many times just increase the quantity. 
+6.give a quantity tab on basket page and buy now page for the products 
+7.Work on the dimensions of the product images
+8.Find good font styles 
