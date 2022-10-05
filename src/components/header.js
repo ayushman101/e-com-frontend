@@ -27,7 +27,7 @@ export default function Header() {
                     
                     <div className="Header-option">
                     
-                        <span><small>Hello Guest</small></span>
+                        <span><small>Hello</small></span>
                     <Link to={`/SignIn`} style={{textDecoration:'none'}}>
                         <span className="alink">SignIn</span>
                         </Link>
